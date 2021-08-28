@@ -1,1 +1,1 @@
-Projeto estudado com muito empenho para o bootcamp da Dio, acompanhando e executando todos os passos junto ao instrutor e criador Oswaldo Neto, ainda que na construção das classes a preservação do código final do github dele foi mantida visando a integridade do projeto em si.
+Projeto estudado com muito empenho para o bootcamp da Dio, acompanhando e executando todos os passos junto ao instrutor e criador Oswaldo Neto, ainda que na construção das classes a preservação do código final do github dele foi mantida visando a integridade do projeto original.
